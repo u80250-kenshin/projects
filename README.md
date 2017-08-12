@@ -198,3 +198,19 @@ https://github.com/yuanliangding/guidetodatamining
 
 https://github.com/junicorn/mario
 如何設計一個Java MVC框架源碼
+
+https://github.com/lgvalle/Material-Animations
+
+
+https://github.com/pedrovgs/EffectiveAndroidUI
+
+
+https://github.com/xitu/gold-miner
+
+
+https://github.com/jwasham/coding-interview-university
+
+
+https://github.com/open-guides/og-aws
+
+
