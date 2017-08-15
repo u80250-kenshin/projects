@@ -206,11 +206,13 @@ https://github.com/pedrovgs/EffectiveAndroidUI
 
 
 https://github.com/xitu/gold-miner
-
+翻譯文章
 
 https://github.com/jwasham/coding-interview-university
 
 
 https://github.com/open-guides/og-aws
+aws 操作
 
-
+https://github.com/iluwatar/java-design-patterns
+超多設計模式實作（java）
